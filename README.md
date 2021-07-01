@@ -1,9 +1,10 @@
-# Pizza-Markup-Language
+# Pizza Markup Language
 Pizza Markup Language to Text Converter
 
-# HTML, Javascript, and TailwindCSS
+## HTML, Javascript, and TailwindCSS
 
-# GitHub Page
+
+## GitHub Page
 https://jerald-devofficial.github.io/Pizza-Markup-Language/
 
 
